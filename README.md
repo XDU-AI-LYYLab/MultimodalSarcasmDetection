@@ -1,5 +1,6 @@
 # An Attention-based, Context-aware Multimodal Fusion Method for Sarcasm Detection using Inter-modality Inconsistency
 This repository contains the code implementation for the paper "An Attention-based, Context-aware Multimodal Fusion Method for Sarcasm Detection using Inter-modality Inconsistency". 
+[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000923)
 
 
 ## Introduction
@@ -32,3 +33,6 @@ The experimental results on the MUStARD Extended dataset demonstrate the superio
 
 ## Citation
 If you find this code implementation useful in your research, please consider citing the following paper:
+```
+Li, Yangyang, et al. "An attention-based, context-aware multimodal fusion method for sarcasm detection using inter-modality inconsistency." Knowledge-Based Systems 287 (2024): 111457.
+```
