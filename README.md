@@ -6,6 +6,10 @@ This repository contains the code implementation for the paper "An Attention-bas
 ## Introduction
 Sarcasm detection is a challenging task, especially in the context of social media and meta universe applications where communication extends beyond text to include videos, images, and audio. Traditional methods relying solely on text data often fail to capture the emotional incongruities and subtleties inherent in sarcasm. This paper introduces a novel multimodal sarcasm detection method that processes multimodal data and focuses on modeling the emotional mismatch between different modalities.
 
+<img src="./pic/contribution_in_a_nutshell.png" alt="contributions in a nutshell" width="650">
+
+
+
 ## Features
 - Intermodal emotional inconsistency detection mechanism
 - Contextual scenario inconsistency detection mechanism
@@ -33,6 +37,5 @@ The experimental results on the MUStARD Extended dataset demonstrate the superio
 
 ## Citation
 If you find this code implementation useful in your research, please consider citing the following paper:
-```
-Li, Yangyang, et al. "An attention-based, context-aware multimodal fusion method for sarcasm detection using inter-modality inconsistency." Knowledge-Based Systems 287 (2024): 111457.
-```
+
+> Li, Yangyang, et al. "An attention-based, context-aware multimodal fusion method for sarcasm detection using inter-modality inconsistency." Knowledge-Based Systems 287 (2024): 111457.
